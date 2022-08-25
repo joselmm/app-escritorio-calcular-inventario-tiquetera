@@ -1,0 +1,22 @@
+{
+  "name": "app_escritorio_inventario_final_calculator",
+  "version": "1.0.0",
+  "description": "Con esta app se podra calcular el inventario final de un paquete de  boletas de la TIQUETERA SAS de forma mas facil",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joselmm/app-escritorio-calcular-inventario-tiquetera.git"
+  }
+
+,
+  "devDependencies": {
+    "electron": "20.1.0",
+    "electron-builder": "20.1.0"
+  },
+  "author": "joselmm",
+  "license": "ISC"
+}
